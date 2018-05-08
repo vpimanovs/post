@@ -1,24 +1,6 @@
 {
     "pasutijumi": [
-    {
-    "id": 1,
-    "prieksmets": "Kondicionesanas iekartu montaza Bauskas, Jekabpils, Rezeknes regionalajas nodalas",
-    "username": "Bret",
-    "ligumcena": "916.00",
-    "address": "Rīga Pīga",
-    "ligum_laiks": "Lidz saistibu savstarpejai izpildei",
-    "company_name": "Lols",
-    },
-    {
-    "id": 2,
-    "prieksmets": "Pilings",
-    "username": "Boulings",
-    "ligumcena": "916.00",
-    "address": "Rīga Pīga",
-    "ligum_laiks": "Lidz saistibu savstarpejai izpildei",
-    "company_name": "Molss",
-    }
-  }
-
+    {"id": 1,"prieksmets": "Kondicionesanas iekartu montaza Bauskas, Jekabpils, Rezeknes regionalajas nodalas"},
+    {"id": 2,"prieksmets": "Pilings"}
 ]
 }
