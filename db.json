@@ -1,34 +1,24 @@
-[{
+{
+    "pasutijumi": [
+    {
     "id": 1,
     "prieksmets": "Kondicionesanas iekartu montaza Bauskas, Jekabpils, Rezeknes regionalajas nodalas",
     "username": "Bret",
     "ligumcena": "916.00",
-    "address": {
-      "street": "Ulbrokas iela",
-      "suite": "51-12",
-      "city": "Riga",
-      "zipcode": "LV-5444"
-    },
+    "address": "Rīga Pīga",
     "ligum_laiks": "Lidz saistibu savstarpejai izpildei",
-    "company": {
-      "name": "SIA Salang-P "
-    }
-  },
-  {
+    "company_name": "Lols",
+    },
+    {
     "id": 2,
-    "prieksmets": "Kaju pilings",
-    "username": "Blat",
-    "ligumcena": "100.00",
-    "address": {
-      "street": "Matisa iela",
-      "suite": "51-12",
-      "city": "Riga",
-      "zipcode": "LV-5444"
-    },
+    "prieksmets": "Pilings",
+    "username": "Boulings",
+    "ligumcena": "916.00",
+    "address": "Rīga Pīga",
     "ligum_laiks": "Lidz saistibu savstarpejai izpildei",
-    "company": {
-      "name": "SIA Labatras -B "
+    "company_name": "Molss",
     }
   }
 
 ]
+}
