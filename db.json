@@ -2,9 +2,17 @@
     "pasutijumi": [
     {
         "id": 1,
-        "prieksmets": "Kondicionesanas iekartu montaza Bauskas, Jekabpils, Rezeknes regionalajas nodalas"},
+        "prieksmets": "Kondicionesanas iekartu montaza Bauskas, Jekabpils, Rezeknes regionalajas nodalas",
+        "username": "Blat",
+        "ligumcena": "100.00",
+        "address": "Rīga"
+    },
     {
         "id": 2,
-        "prieksmets": "Pilings"}
+        "prieksmets": "Pilings"
+        "username": "Blat",
+        "ligumcena": "100.00",
+        "address": "Rīga"
+    }
 ]
 }
