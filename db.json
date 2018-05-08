@@ -1,6 +1,5 @@
 {
    "pasutijumi": [
-   {"id": 1,"prieksmets": "Kondicionesanas iekartu montaza","username": "Blat","ligumcena": "100.00","address": "Rīga","company": { "name": "Lols"},"ligum_laiks": "Līdz beigām"},
-   {"id": 2,"prieksmets": "Pilings","username": "Blat","ligumcena": "100.00","address": "Rīga","company": { "name": "kols"},"ligum_laiks": "Līdz beigām"}
+   {"id": 1,"prieksmets": "Kondicionesanas iekartu montaza","username": "Blat","ligumcena": "100.00","address": "Rīga","company": { "name": "Lols"},"ligum_laiks": "Līdz beigām"}
  ]
  }
