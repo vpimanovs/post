@@ -7,10 +7,10 @@
    {"id": 5,"prieksmets": "24142151221","username": "Admin","ligumcena": "Kopilovs","address": "VW Pito","company": { "name": "vita.p****le@mail.ru"},"ligum_laiks": "Pušķele"}
  ],
    "darbinieki": [
-   {"id": 1,"prieksmets": "187","username": "Admin","ligumcena": "Anohins","address": "Reno Cangoo","company": { "name": "eliza****th@inbox.lv"},"ligum_laiks": "Krasiļnikova"},
-   {"id": 2,"prieksmets": "187","username": "Admin","ligumcena": "Bobrovs","address": "VW Transporter","company": { "name": "brut****cs@gmail.com"},"ligum_laiks": "Sprukts"},
-   {"id": 3,"prieksmets": "164","username": "Admin","ligumcena": "Lapse","address": "MB Sprinter","company": { "name": "volo****ik@inbox.lv"},"ligum_laiks": "Mikuckis"},
-   {"id": 4,"prieksmets": "754","username": "Admin","ligumcena": "Bērziņš","address": "VW Transporter","company": { "name": "script****ts@gmail.com"},"ligum_laiks": "Veigurs"},
-   {"id": 5,"prieksmets": "241","username": "Admin","ligumcena": "Kopilovs","address": "VW Pito","company": { "name": "vita.p****le@mail.ru"},"ligum_laiks": "Pušķele"}
+   {"id": 1,"prieksmets": "1","username": "Admin","ligumcena": "Alberts","address": "blon****ik@inbox.lv","company": { "name": "Kurjers"},"ligum_laiks": "Demčenko"},
+   {"id": 2,"prieksmets": "2","username": "Admin","ligumcena": "Vladimirs","address": "poziga****vs@gmail.com","company": { "name": "Noliktāvas pārzinis"},"ligum_laiks": "Požigailovs"},
+   {"id": 3,"prieksmets": "3","username": "Admin","ligumcena": "Matīss","address": "prakti****ns@inbox.lv","company": { "name": "Loģists"},"ligum_laiks": "Bērziņš"},
+   {"id": 4,"prieksmets": "4","username": "Admin","ligumcena": "Aleksejs","address": "aleksejs.z****o@mail.ru","company": { "name": "Kurjers"},"ligum_laiks": "Zimins"},
+   {"id": 5,"prieksmets": "5","username": "Admin","ligumcena": "Armands","address": "geniu****an@inbox.lv","company": { "name": "Operators"},"ligum_laiks": "Frolovs"}
  ]
  }
