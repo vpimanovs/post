@@ -1,6 +1,6 @@
 {
     "pasutijumi": [
     {"id": 1,"prieksmets": "Kondicionesanas iekartu montaza","username": "Blat","ligumcena": "100.00","address": "Rīga"},
-    {"id": 2,"prieksmets": "Pilings""username": "Blat","ligumcena": "100.00","address": "Rīga"}
+    {"id": 2,"prieksmets": "Pilings","username": "Blat","ligumcena": "100.00","address": "Rīga"}
 ]
 }
