@@ -1,9 +1,7 @@
 {
    "pasutijumi": [
    {"id": 1,"prieksmets": "Kondicionesanas iekartu montaza","username": "Blat","ligumcena": "100.00","address": "Rīga","copmany_name": "SIA Oluhs"},
-   {"id": 2,"prieksmets": "Pilings","username": "Blat","ligumcena": "100.00","address": "Rīga","copmany_name": "SIA Oluhs"},
-   {"id": 3,"prieksmets": "Kondicionesanas iekartu montaza","username": "Blat","ligumcena": "100.00","address": "Rīga", "company_name": "SIA Oluhs"},
-   {"id": 4,"prieksmets": "Pilings","username": "Blat","ligumcena": "100.00","address": "Rīga", "company_name": "SIA Oluhs"}
+   {"id": 2,"prieksmets": "Pilings","username": "Blat","ligumcena": "100.00","address": "Rīga","copmany_name": "SIA Oluhs"}
  ]
  }
 
